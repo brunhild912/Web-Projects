@@ -324,12 +324,13 @@ span {
 }
 
 .project-content {
-    width: 20%;
+    width: 40%;
     height: 20vh;
     border: .2rem solid var(--main-color);
     box-shadow: 0 0 1rem var(--main-color);
     max-width: 600px;
     padding: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .project-content h3 {
